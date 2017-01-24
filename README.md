@@ -1,2 +1,2 @@
-# hello-world
-My first repository
+#Hi
+Just getting to know this site
